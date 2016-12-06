@@ -1,2 +1,1 @@
-# vg_account_confirm
-VG認証テスト用
+185a1da37786ae232f26e414e8b835868f203d95d5007e78a6963727a212aa92
